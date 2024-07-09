@@ -1,1 +1,2 @@
-# mark-detect-opencv
+                                                    口罩检测系统
+该项目基于opencv和tensorflow实现口罩检测系统，通过opencv对人脸进行检测，然后切分至CNN神经网络模型里进行推理，实现口罩的检测，然后使用websocket调用科大讯飞的在线语音识别系统，进行识别结果的播报。
